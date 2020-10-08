@@ -1,0 +1,32 @@
+# Singapore Management University - Library Survey Analysis
+A ISSS608 Visual Analytics and Applications Project
+AY2019-2020 Term 2
+
+## About
+
+This is a project as part of the SMU **ISSS608 Visual Analytics and Applications** course, which involves the application of visualisations, best practices & statistical concepts using R as the tool. Part of the requirement of this project was to examine a dataset of our choice, and to present our findings from the chosen dataset using a Shiny dashboard.
+
+## The Topic
+
+In Singapore Management University, which has two physical libraries (the Li-Ka Shing Library and Kwa Geok Choo Law Library), implementation of the survey was by Insync™ Surveys in February 2018 and February 2020. Based on the SMU February 2018 Library Survey results, the information being collected are of three components: (i) demographic information (consisting of the role of respondents in the university, major area of study/research, the frequency of use of campus, library and online library resources by survey respondents), (ii) the physical library which the respondent visited more frequently, and (iii) the largest proportion of data collected related to user rating of importance and performance of the library in a Likert Scale from 1 (low) to 7 (high) on 26 items in the Library Survey. These 26 items were based on four dimensions: ‘Communication’, ‘Service Delivery’, ‘Facilities and Equipment’, and ‘Information Resources’. Respondents were also asked, on a scale of 1 (least likely) to 10 (most likely), how likely they will recommend the library service to other students.
+
+The 2018 and 2020 SMU Library Survey was implemented through an internet portal, and also allowed for free text comments to be provided by respondents. The results from the 2018 library survey were published in a 155-page document, with breakdown of survey information and findings in data visualisation such statistical tables, bar graphs, line charts, and gap grids. Aggregate information and information broken down based on major area of study/research were documented on individual pages of the report. 
+
+Our project hope to create a R Shiny application to dig deeper into the available data to uncover more insights. There is potential for reuse of this R Shiny application for analysis of SMU February 2020 Library survey.
+
+**To get more details about the project [click here](https://wiki.smu.edu.sg/1920t2isss608/Group03_proposal).**
+
+## Datasets
+
+The SMU Library Survey 2018 data was obtained courtesy of the SMU library management and staff. Survey responses were obtained from a total of 2639 participants, including staff, faculty and students, capturing their demographics, as well as the importance and performance ratings. Free text information in the form of comments were also collected to supplement their assessment of the library through pre-determined matrices and suggest recommendations for improvement of the library. 
+
+## Contributions
+
+This is a joint contribution by:
+- [Joshua LAM](https://www.linkedin.com/in/joshualamjiefeng/)
+- [Karthik NITYANAND](https://www.linkedin.com/in/karthiknityanand/)
+- [Shreyansh SHIVAM](https://www.linkedin.com/in/shreyansh-shivam/)
+
+## Acknowledgements
+
+We would like to express our heartfelt thanks to [KAM Tin Seong](https://www.smu.edu.sg/faculty/profile/9618/KAM-Tin-Seong), Associate Professor of Information Systems at SMU for his guidance in this project.
